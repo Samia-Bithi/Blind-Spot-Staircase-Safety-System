@@ -1,0 +1,15 @@
+# Compiled output
+*.hex
+*.elf
+*.o
+*.map
+
+# Video files (too large for GitHub - upload to YouTube instead)
+*.mp4
+*.avi
+*.mov
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini

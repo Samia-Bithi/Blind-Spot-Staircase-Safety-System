@@ -76,7 +76,7 @@ In the event of a fall or prolonged inactivity on the staircase, the system auto
 ├── docs/
 │   ├── Blind_Spot.pdf                # Project proposal
 │   ├── Group_4_report.pdf            # Full project report
-│   └── Group_4.pptx                  # Presentation slides
+│   └── Group_4.pptx                 # Presentation slides
 └── README.md
 ```
 
@@ -106,4 +106,4 @@ avrdude -c usbasp -p m32 -U flash:w:output.hex
 
 ## Project Context
 
-Developed as part of **MTE 3104 — Group 4** coursework project.
+Developed as a part of **MTE 3104 — Group 4** coursework project.
